@@ -1,0 +1,9 @@
+Servlet : voir selon PDF + UML
+
+Filtre : Filtre sur /auth pour vérifier si login
+		 Filtre sur / pour transmettre l'objet user à la requête si il existe (Ou session ?)
+		 
+Progressbar des JSP en fonction de timstamp system
+
+
+Rappel : A rendre avant le 01/03 à contact@guillaume-balas.fr  (voir dans Documents pour mail exact)
